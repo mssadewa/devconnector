@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://mssadewa:shakay971@learn-mongo01-tdlrm.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "SecretTokens",
+	"githubClientId": "a39cac3deea9b2aac676",
+	"githubSecret": "5a4790b6d30d7ecb5c740658a9fa174d339d5690"
+}
